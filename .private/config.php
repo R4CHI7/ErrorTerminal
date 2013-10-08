@@ -1,3 +1,5 @@
 <?php
-    $DBVars = array();
+    $DBName = array('DBName' => 'ErrorTerminalDB',
+    				'UserTableName' => 'Users',
+    				'KeysTableName' => 'Keys'); 
 ?>
