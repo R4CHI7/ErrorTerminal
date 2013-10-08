@@ -1,0 +1,3 @@
+[submodule "PHPRoute"]
+	path = PHPRoute
+	url = http://github.com/MrDHat/PHPRoute
